@@ -1,1 +1,2 @@
 second file
+change made in the new-feature branch
